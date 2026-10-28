@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ChargeAutomation is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://chargeautomation.com/
+ChargeAutomation provides guest experience software for hotels, vacation rentals, and property managers, enabling online check‑in, secure payments, deposits, upsells, and guest access management from a single platform. The solution automates the entire stay lifecycle, streamlining operations for hospitality businesses while enhancing guest satisfaction through seamless digital interactions. With integrations to major property management systems, ChargeAutomation helps operators reduce manual work, improve revenue, and deliver a modern, contact‑less experience.
+
+**Areas:** Company · Hospitality · Guest Experience · Payments · Property Management
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://chargeautomation.com/)
+- [Documentation](https://help.chargeautomation.com/)
+- [Getting started](http://help.chargeautomation.com/en/articles/10331994-sales-onboarding-support-links)
+- [Pricing](https://chargeautomation.com/pricing/)
+- [Support](https://help.chargeautomation.com/en/?_gl=1*1q587zh*_gcl_au*MTM0ODI1Njk4NC4xNzQ0Mjg5MTE4)
+- [Blog](https://chargeautomation.com/blog/)
+- [Terms of service](https://chargeautomation.com/terms-of-service/)
+- [Privacy policy](https://chargeautomation.com/privacy-policy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/chargeautomation/](https://apis.io/providers/chargeautomation/).
